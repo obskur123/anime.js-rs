@@ -2,6 +2,7 @@
 name = "animejs-rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["obskur123"]
 
 [lib]
 crate-type = ["cdylib"]
