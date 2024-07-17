@@ -18,5 +18,5 @@ Añade esto a tu `Cargo.toml`:
 
 ```toml
 [dependencies]
-animejs-rs = "0.1.0"
+animejs-rs = "0.1.1"
 ```
