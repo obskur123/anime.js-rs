@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["obskur123"]
 license = "MIT"
 repository = "https://github.com/obskur123/animejs-rs"
+description = "anime.js bindings for rust"
 
 
 [lib]
